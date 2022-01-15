@@ -1,0 +1,161 @@
+Geom;MAPID;NAME;URL;Geo Local Area
+"{""coordinates"": [-123.114967985868, 49.2603889490707], ""type"": ""Point""}";TCM007;Cambie St and W 12th Av;https://trafficcams.vancouver.ca/cambie12.htm;Fairview
+"{""coordinates"": [-123.130252725283, 49.2084701202487], ""type"": ""Point""}";TCM010;Oak St and W 70th Av;https://trafficcams.vancouver.ca/oak4.htm;Marpole
+"{""coordinates"": [-123.136787449782, 49.2942590380806], ""type"": ""Point""}";TCM014;Chilco St and W Georgia St;http://images.drivebc.ca/bchighwaycam/pub/html/www/19.html;West End
+"{""coordinates"": [-123.136736007805, 49.2972589838826], ""type"": ""Point""}";TCM015;Stanley Park Causeway;http://images.drivebc.ca/bchighwaycam/pub/html/www/17.html;
+"{""coordinates"": [-123.129968, 49.324891], ""type"": ""Point""}";TCM017;North End 2;http://images.drivebc.ca/bchighwaycam/pub/html/www/20.html;
+"{""coordinates"": [-123.116492357278, 49.2261139995231], ""type"": ""Point""}";TCM024;Cambie St and W 49th Av;https://trafficcams.vancouver.ca/cambie49.htm;Oakridge
+"{""coordinates"": [-123.116192190431, 49.2335434721856], ""type"": ""Point""}";TCM025;Cambie St and W 41st Av;https://trafficcams.vancouver.ca/cambie41.htm;South Cambie
+"{""coordinates"": [-123.115406053889, 49.248990875309], ""type"": ""Point""}";TCM026;Cambie St and W King Edward Av;https://trafficcams.vancouver.ca/cambie25.htm;South Cambie
+"{""coordinates"": [-123.100028035364, 49.2727762979223], ""type"": ""Point""}";TCM028;Main St and Terminal Av;https://trafficcams.vancouver.ca/mainTerminal.htm;Downtown
+"{""coordinates"": [-123.116411709855, 49.2836239860524], ""type"": ""Point""}";TCM030;Granville St and Dunsmuir St;https://trafficcams.vancouver.ca/GranvilleDunsmuir.htm;Downtown
+"{""coordinates"": [-123.117110735151, 49.2101449448247], ""type"": ""Point""}";TCM032;Cambie St and SW Marine Drive;https://trafficcams.vancouver.ca/CambieMarine.htm;Marpole
+"{""coordinates"": [-123.10089513196, 49.2644481387721], ""type"": ""Point""}";TCM042;Main St and Kingsway;https://trafficcams.vancouver.ca/mainKingsway7.htm;Mount Pleasant
+"{""coordinates"": [-123.02361, 49.25822], ""type"": ""Point""}";TCM046;Boundary Road and Grandview Hwy;https://trafficcams.vancouver.ca/BoundaryGrandviewHwy.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.04881, 49.23758], ""type"": ""Point""}";TCM047;Earles St and Kingsway;https://trafficcams.vancouver.ca/EarlesKingsway.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.121791, 49.2826429], ""type"": ""Point""}";TCM048;Hornby St and Robson St;https://trafficcams.vancouver.ca/HornbyRobson.htm;Downtown
+"{""coordinates"": [-123.056641, 49.248805], ""type"": ""Point""}";TCM056;Nanaimo St and E 24th Av;https://trafficcams.vancouver.ca/nanaimo24.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.133382, 49.281777], ""type"": ""Point""}";TCM060;Bute St and Davie St;https://trafficcams.vancouver.ca/buteDavie.htm;West End
+"{""coordinates"": [-123.076038, 49.250101], ""type"": ""Point""}";TCM061;Knight St and Kingsway;https://trafficcams.vancouver.ca/knightKingsway.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.134406, 49.278304], ""type"": ""Point""}";TCM064;Thurlow St and Pacific St;https://trafficcams.vancouver.ca/thurlowPacific.htm;West End
+"{""coordinates"": [-123.038991, 49.207814], ""type"": ""Point""}";TCM068;SE Marine Drive and Marine Way;https://trafficcams.vancouver.ca/marineMarineWay.htm;Killarney
+"{""coordinates"": [-123.027149, 49.2064], ""type"": ""Point""}";TCM072;Sawmill East Crescent and Marine Way;https://trafficcams.vancouver.ca/SawmillEastMarine.htm;Killarney
+"{""coordinates"": [-123.033566, 49.207032], ""type"": ""Point""}";TCM073;Sawmill West Crescent and Marine Way;https://trafficcams.vancouver.ca/SawmillWestMarine.htm;Killarney
+"{""coordinates"": [-123.11558, 49.276527], ""type"": ""Point""}";TCM076;Beatty St and Smithe St;https://trafficcams.vancouver.ca/beattySmithe.htm;Downtown
+"{""coordinates"": [-123.044345, 49.250539], ""type"": ""Point""}";TCM081;Renfrew St and E 22nd Av;https://trafficcams.vancouver.ca/renfrew22.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.127873, 49.241388], ""type"": ""Point""}";TCM082;Oak St and W 33rd Av;https://trafficcams.vancouver.ca/oak33.htm;Shaughnessy
+"{""coordinates"": [-123.023649, 49.23228], ""type"": ""Point""}";TCM084;Boundary Road and Kingsway;https://trafficcams.vancouver.ca/boundaryKingsway.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.1546702, 49.2610022], ""type"": ""Point""}";TCM090;Arbutus Greenway and W 12th Av;https://trafficcams.vancouver.ca/greenway12.htm;Kitsilano
+"{""coordinates"": [-123.023703, 49.234379], ""type"": ""Point""}";TCM093;Boundary Rd and Vanness Av;https://trafficcams.vancouver.ca/boundaryVanness.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.126628, 49.26244], ""type"": ""Point""}";TCM094;Oak St and W 10th Av;https://trafficcams.vancouver.ca/oakW10.htm;Fairview
+"{""coordinates"": [-123.090919, 49.266785], ""type"": ""Point""}";TCM099;Carolina St and Great Northern Way;https://trafficcams.vancouver.ca/carolinaGreatNorthern.htm;Strathcona
+"{""coordinates"": [-123.097767, 49.261081], ""type"": ""Point""}";TCM102;Kingsway and E 11th Av;https://trafficcams.vancouver.ca/kingsway11.htm;Mount Pleasant
+"{""coordinates"": [-123.13039, 49.275674], ""type"": ""Point""}";TCM109;Howe St and Pacific St;https://trafficcams.vancouver.ca/howePacific.htm;Downtown
+"{""coordinates"": [-123.033805, 49.250601], ""type"": ""Point""}";TCM111;Rupert St and E 22nd Av;https://trafficcams.vancouver.ca/rupertE22.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.138808, 49.257058], ""type"": ""Point""}";TCM112;Granville St and W 16th Av;https://trafficcams.vancouver.ca/granville16.htm;Fairview
+"{""coordinates"": [-123.043122, 49.229296], ""type"": ""Point""}";TCM114;Rupert St and E 45th Av;https://trafficcams.vancouver.ca/rupert45.htm;Killarney
+"{""coordinates"": [-123.168395, 49.264945], ""type"": ""Point""}";TCM116;Macdonald St and W 8th Av;https://trafficcams.vancouver.ca/macdonald8.htm;Kitsilano
+"{""coordinates"": [-123.031839, 49.283737], ""type"": ""Point""}";TCM118;Collectors and Bridgeway St;https://trafficcams.vancouver.ca/collectorsBridgeway.htm;Hastings-Sunrise
+"{""coordinates"": [-123.023606, 49.222001], ""type"": ""Point""}";TCM121;Boundry Road and E 49th Av;https://trafficcams.vancouver.ca/boundary49.htm;Killarney
+"{""coordinates"": [-123.153224, 49.248462], ""type"": ""Point""}";TCM123;Arbutus St and Lahb Av;https://trafficcams.vancouver.ca/arbutusLahb.htm;Arbutus-Ridge
+"{""coordinates"": [-123.023669, 49.265567], ""type"": ""Point""}";TCM128;Boundary Road and Lougheed Hwy;https://trafficcams.vancouver.ca/boundaryLougheed.htm;Hastings-Sunrise
+"{""coordinates"": [-123.111904, 49.28404], ""type"": ""Point""}";TCM131;Richards St and W Hastings St;https://trafficcams.vancouver.ca/richardsHastings.htm;Downtown
+"{""coordinates"": [-123.099514, 49.262868], ""type"": ""Point""}";TCM134;Kingsway and W Broadway;https://trafficcams.vancouver.ca/kingswayBroadway.htm;Mount Pleasant
+"{""coordinates"": [-123.115565, 49.245194], ""type"": ""Point""}";TCM135;Cambie St and W 29th Av;https://trafficcams.vancouver.ca/cambie29.htm;South Cambie
+"{""coordinates"": [-123.115421, 49.282986], ""type"": ""Point""}";TCM138;Seymour St and Dunsmuir St;https://trafficcams.vancouver.ca/seymourDunsmuir.htm;Downtown
+"{""coordinates"": [-123.044289, 49.258175], ""type"": ""Point""}";TCM140;Renfrew St and Grandview Hwy;https://trafficcams.vancouver.ca/renfrewGrandview.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.124976, 49.2805], ""type"": ""Point""}";TCM143;Hornby St and Nelson St;https://trafficcams.vancouver.ca/hornbyNelson.htm;Downtown
+"{""coordinates"": [-123.137996, 49.267903], ""type"": ""Point""}";TCM148;Anderson St and W 4th Av;https://trafficcams.vancouver.ca/anderson04.htm;Fairview
+"{""coordinates"": [-123.139589, 49.234332], ""type"": ""Point""}";TCM150;Granville St.and W 41st Av;https://trafficcams.vancouver.ca/granville41.htm;Shaughnessy
+"{""coordinates"": [-123.02373, 49.250633], ""type"": ""Point""}";TCM152;Boundary Road and E 22nd Av;https://trafficcams.vancouver.ca/boundary22.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.098201, 49.267764], ""type"": ""Point""}";TCM166;Scotia St and E 2nd Av;https://trafficcams.vancouver.ca/scotia2.htm;Strathcona
+"{""coordinates"": [-123.142376, 49.28688], ""type"": ""Point""}";TCM167;Denman St and Beach Av;https://trafficcams.vancouver.ca/denmanBeach.htm;West End
+"{""coordinates"": [-123.185261, 49.234718], ""type"": ""Point""}";TCM168;Dunbar St and W 41st Av;https://trafficcams.vancouver.ca/dunbar41.htm;Dunbar-Southlands
+"{""coordinates"": [-123.128859, 49.276755], ""type"": ""Point""}";TCM171;Howe St and Drake St;https://trafficcams.vancouver.ca/howeDrake.htm;Downtown
+"{""coordinates"": [-123.077030889534, 49.2327151572131], ""type"": ""Point""}";TCM022;Knight St and E 41st Av;https://trafficcams.vancouver.ca/knight.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.130520302544, 49.290510806346], ""type"": ""Point""}";TCM003;Cardero St and W Pender St and W Georgia;https://trafficcams.vancouver.ca/georgia3.htm;Downtown
+"{""coordinates"": [-123.033764228688, 49.2581519344414], ""type"": ""Point""}";TCM004;Rupert St and Grandview Hwy;https://trafficcams.vancouver.ca/grandview4.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.114886176233, 49.2667756269949], ""type"": ""Point""}";TCM005;Cambie Bridge;https://trafficcams.vancouver.ca/cambiebridge.htm;Fairview
+"{""coordinates"": [-123.146200846216, 49.2728254984234], ""type"": ""Point""}";TCM011;Burrard St and Cornwall Av;https://trafficcams.vancouver.ca/BurrardCornwall4.htm;Kitsilano
+"{""coordinates"": [-123.030835801938, 49.2811264797669], ""type"": ""Point""}";TCM021;Cassiar Connector and E Hastings St;https://trafficcams.vancouver.ca/cassiarHastings.htm;Hastings-Sunrise
+"{""coordinates"": [-123.07702523194, 49.2181272253316], ""type"": ""Point""}";TCM023;Knight St and E 57th Av;https://trafficcams.vancouver.ca/knight57.htm;Sunset
+"{""coordinates"": [-123.101486354168, 49.2405023736559], ""type"": ""Point""}";TCM029;Main St and E 33rd Av;https://trafficcams.vancouver.ca/main33.htm;Riley Park
+"{""coordinates"": [-123.115479083554, 49.2881431972814], ""type"": ""Point""}";TCM031;Burrard St and Canada Place;https://trafficcams.vancouver.ca/BurrardCanadaPlace.htm;Downtown
+"{""coordinates"": [-123.100696908039, 49.2691679881689], ""type"": ""Point""}";TCM033;Main St and E 2nd Av;https://trafficcams.vancouver.ca/Main2.htm;Mount Pleasant
+"{""coordinates"": [-123.069621664266, 49.2695996340758], ""type"": ""Point""}";TCM035;Commercial Drive and E 1st Av;https://trafficcams.vancouver.ca/Commercial01.htm;Grandview-Woodland
+"{""coordinates"": [-123.069762688147, 49.2623194551024], ""type"": ""Point""}";TCM040;Commercial Drive and E Broadway;https://trafficcams.vancouver.ca/commercialBroadway.htm;Grandview-Woodland
+"{""coordinates"": [-123.120082749606, 49.2837645081745], ""type"": ""Point""}";TCM043;Hornby St and W Georgia St;https://trafficcams.vancouver.ca/hornbyGeorgia.htm;Downtown
+"{""coordinates"": [-123.07711, 49.28309], ""type"": ""Point""}";TCM044;Clark Drive and Powell St;https://trafficcams.vancouver.ca/ClarkPowell.htm;Grandview-Woodland
+"{""coordinates"": [-123.07711, 49.28131], ""type"": ""Point""}";TCM045;Clark Drive and E Hastings St;https://trafficcams.vancouver.ca/ClarkHastings.htm;Grandview-Woodland
+"{""coordinates"": [-123.119088, 49.2831269], ""type"": ""Point""}";TCM049;Howe St and W Georgia St;https://trafficcams.vancouver.ca/howeGeorgia.htm;Downtown
+"{""coordinates"": [-123.119829, 49.2813697], ""type"": ""Point""}";TCM050;Granville St and Robson St;https://trafficcams.vancouver.ca/granvilleRobson.htm;Downtown
+"{""coordinates"": [-123.035859, 49.2341556], ""type"": ""Point""}";TCM053;Joyce St and Kingsway;https://trafficcams.vancouver.ca/joyceKingsway.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.044285, 49.261973], ""type"": ""Point""}";TCM054;Renfrew St and E Broadway;https://trafficcams.vancouver.ca/renfrewBroadway.htm;Hastings-Sunrise
+"{""coordinates"": [-123.081247, 49.282787], ""type"": ""Point""}";TCM057;Glen Drive and Powell St;https://trafficcams.vancouver.ca/glenPowell.htm;Strathcona
+"{""coordinates"": [-123.07614, 49.248518], ""type"": ""Point""}";TCM062;Knight St and King Edward Av;https://trafficcams.vancouver.ca/knightKingEdward.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.077205, 49.211117], ""type"": ""Point""}";TCM063;Knight St and SE Marine Drive;https://trafficcams.vancouver.ca/knightMarineBridge.htm;Sunset
+"{""coordinates"": [-123.145657, 49.268027], ""type"": ""Point""}";TCM065;Burrard St and W 4th Av;https://trafficcams.vancouver.ca/burrard4.htm;Kitsilano
+"{""coordinates"": [-123.03084, 49.206881], ""type"": ""Point""}";TCM074;River District Crossing and Marine Way;https://trafficcams.vancouver.ca/RiverDistrictMarine.htm;Killarney
+"{""coordinates"": [-123.118386, 49.241057], ""type"": ""Point""}";TCM079;Cambie St and W 33rd Av;https://trafficcams.vancouver.ca/cambie33.htm;Riley Park
+"{""coordinates"": [-123.153058, 49.257275], ""type"": ""Point""}";TCM088;Arbutus St and W 16th Av;https://trafficcams.vancouver.ca/arbutus16.htm;Kitsilano
+"{""coordinates"": [-123.152958, 49.263817], ""type"": ""Point""}";TCM089;Arbutus St and W Broadway;https://trafficcams.vancouver.ca/arbutusBroadway.htm;Kitsilano
+"{""coordinates"": [-123.114864, 49.211016], ""type"": ""Point""}";TCM095;Yukon St and SW Marine Drive;https://trafficcams.vancouver.ca/yukonSWMarine.htm;Marpole
+"{""coordinates"": [-123.130775, 49.278025], ""type"": ""Point""}";TCM096;Burrard St and Drake St;https://trafficcams.vancouver.ca/burrardDrake.htm;West End
+"{""coordinates"": [-123.074029, 49.283234], ""type"": ""Point""}";TCM098;McLean Drive and Powell St;https://trafficcams.vancouver.ca/mcleanPowell.htm;Grandview-Woodland
+"{""coordinates"": [-123.14447, 49.208597], ""type"": ""Point""}";TCM100;Arbutus Greenway and SW Marine Drive;https://trafficcams.vancouver.ca/arbutusGreenwaySWMarine.htm;Marpole
+"{""coordinates"": [-123.102702, 49.269206], ""type"": ""Point""}";TCM103;Quebec St and W 2nd Av;https://trafficcams.vancouver.ca/quebec2.htm;Mount Pleasant
+"{""coordinates"": [-123.116051, 49.237262], ""type"": ""Point""}";TCM104;Cambie St and W 37th Av;https://trafficcams.vancouver.ca/cambie37.htm;South Cambie
+"{""coordinates"": [-123.060535, 49.242983], ""type"": ""Point""}";TCM105;Kingsway Midblock East of Gladstone St;https://trafficcams.vancouver.ca/gladstoneKingsway.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.098639, 49.261969], ""type"": ""Point""}";TCM107;Kingsway and E 10th Av;https://trafficcams.vancouver.ca/kingsway10.htm;Mount Pleasant
+"{""coordinates"": [-123.041291, 49.220181], ""type"": ""Point""}";TCM113;Kerr St and E 54th Av;https://trafficcams.vancouver.ca/kerr54.htm;Killarney
+"{""coordinates"": [-123.168408, 49.257668], ""type"": ""Point""}";TCM115;Macdonald St and W 16th Av;https://trafficcams.vancouver.ca/macdonald16.htm;Kitsilano
+"{""coordinates"": [-123.168202, 49.26408], ""type"": ""Point""}";TCM117;Macdonald St and W Broadway;https://trafficcams.vancouver.ca/macdonaldBroadway.htm;Kitsilano
+"{""coordinates"": [-123.168214, 49.262338], ""type"": ""Point""}";TCM129;Macdonald St and Kitsilano Diversion;https://trafficcams.vancouver.ca/macdonaldKitsDiv.htm;Kitsilano
+"{""coordinates"": [-123.126589, 49.26341], ""type"": ""Point""}";TCM130;Oak St and W Broadway;https://trafficcams.vancouver.ca/oakWBroadway.htm;Fairview
+"{""coordinates"": [-123.065537, 49.232752], ""type"": ""Point""}";TCM133;Victoria Drive and E 41st Av;https://trafficcams.vancouver.ca/victoria41.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.112886, 49.283391], ""type"": ""Point""}";TCM136;Richards St and W Pender St;https://trafficcams.vancouver.ca/richardsPender.htm;Downtown
+"{""coordinates"": [-123.044084, 49.277455], ""type"": ""Point""}";TCM139;Renfrew St and Adanac St;https://trafficcams.vancouver.ca/renfrewAdanac.htm;Hastings-Sunrise
+"{""coordinates"": [-123.066299, 49.252975], ""type"": ""Point""}";TCM141;Victoria Drive and Victoria Diversion;https://trafficcams.vancouver.ca/victoriaVictoriaCommercial.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.148748, 49.209601], ""type"": ""Point""}";TCM146;Angus Drive and SW Marine Drive;https://trafficcams.vancouver.ca/angusMarine.htm;Kerrisdale
+"{""coordinates"": [-123.065737, 49.225182], ""type"": ""Point""}";TCM147;Victoria Drive and E 49th Av;https://trafficcams.vancouver.ca/victoria49.htm;Victoria-Fraserview
+"{""coordinates"": [-123.137976, 49.269356], ""type"": ""Point""}";TCM149;Anderson St and Lamey's Mill Road;https://trafficcams.vancouver.ca/andersonLameysMill.htm;Fairview
+"{""coordinates"": [-123.121422, 49.280312], ""type"": ""Point""}";TCM151;Granville St and Smithe St;https://trafficcams.vancouver.ca/granvilleSmithe.htm;Downtown
+"{""coordinates"": [-123.065947, 49.259531], ""type"": ""Point""}";TCM155;Victoria Drive and 12th Av;https://trafficcams.vancouver.ca/victoria12.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.082571, 49.232788], ""type"": ""Point""}";TCM170;Ross St and E 41 Av;https://trafficcams.vancouver.ca/ross41.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.077346577693, 49.2696673278744], ""type"": ""Point""}";TCM001;Clark Drive and E 1st Av;https://trafficcams.vancouver.ca/clark4.htm;Strathcona
+"{""coordinates"": [-123.133742210751, 49.2925940002885], ""type"": ""Point""}";TCM002;Denman St and W Georgia St;https://trafficcams.vancouver.ca/denman3.htm;Downtown
+"{""coordinates"": [-123.138554334693, 49.2635968497724], ""type"": ""Point""}";TCM006;Granville St and W Broadway;https://trafficcams.vancouver.ca/broadwayGranville.htm;Fairview
+"{""coordinates"": [-123.140525163827, 49.2085840137306], ""type"": ""Point""}";TCM008;Granville St and W 70th Av;https://trafficcams.vancouver.ca/granville70th.htm;Marpole
+"{""coordinates"": [-123.115084873166, 49.256907684832], ""type"": ""Point""}";TCM009;Cambie St and W 16th Av;https://trafficcams.vancouver.ca/cambie16th.htm;Fairview
+"{""coordinates"": [-123.132359942237, 49.2769754719523], ""type"": ""Point""}";TCM012;Burrard St and Pacific St;https://trafficcams.vancouver.ca/BurrardPacific4.htm;West End
+"{""coordinates"": [-123.023578, 49.2811188], ""type"": ""Point""}";TCM013;Boundary Road and E Hastings St;https://trafficcams.vancouver.ca/hastings.htm;Hastings-Sunrise
+"{""coordinates"": [-123.130653, 49.324053], ""type"": ""Point""}";TCM016;North End 1;http://images.drivebc.ca/bchighwaycam/pub/html/www/18.html;
+"{""coordinates"": [-123.114727137422, 49.2758069601355], ""type"": ""Point""}";TCM018;Expo Blvd and Smithe St;https://trafficcams.vancouver.ca/expoSmithe.htm;Downtown
+"{""coordinates"": [-123.118130911495, 49.2761048691871], ""type"": ""Point""}";TCM019;Cambie St and Nelson St;https://trafficcams.vancouver.ca/cambieNelson.htm;Downtown
+"{""coordinates"": [-123.044076554126, 49.2811221877658], ""type"": ""Point""}";TCM020;Renfrew St and E Hastings St;https://trafficcams.vancouver.ca/renfrewHastings.htm;Hastings-Sunrise
+"{""coordinates"": [-123.114883421659, 49.2632184560264], ""type"": ""Point""}";TCM027;Cambie St and W Broadway;https://trafficcams.vancouver.ca/cambieBroadway.htm;Fairview
+"{""coordinates"": [-123.099648798315, 49.2813356595642], ""type"": ""Point""}";TCM034;Main St and E Hastings St;https://trafficcams.vancouver.ca/MainHastings.htm;Downtown
+"{""coordinates"": [-123.110542, 49.2798513], ""type"": ""Point""}";TCM036;Beatty St and Dunsmuir St;https://trafficcams.vancouver.ca/BeattyDunsmuir.htm;Downtown
+"{""coordinates"": [-123.11812055027, 49.2824942805362], ""type"": ""Point""}";TCM037;Granville St and W Georgia St;https://trafficcams.vancouver.ca/granvilleGeorgia.htm;Downtown
+"{""coordinates"": [-123.112273646781, 49.2787098421077], ""type"": ""Point""}";TCM038;Beatty St and W Georgia St;https://trafficcams.vancouver.ca/beattyGeorgia.htm;Downtown
+"{""coordinates"": [-123.123013825971, 49.2792581951786], ""type"": ""Point""}";TCM039;Granville St and Nelson St;https://trafficcams.vancouver.ca/granvilleNelson.htm;Downtown
+"{""coordinates"": [-123.077555176815, 49.259622152424], ""type"": ""Point""}";TCM041;Clark Drive and E 12th Av;https://trafficcams.vancouver.ca/clark12.htm;Mount Pleasant
+"{""coordinates"": [-123.131337, 49.2763164], ""type"": ""Point""}";TCM051;Hornby St and Pacific St;https://trafficcams.vancouver.ca/hornbyPacific.htm;Downtown
+"{""coordinates"": [-123.16831, 49.26837], ""type"": ""Point""}";TCM052;Macdonald St and W 4th Av;https://trafficcams.vancouver.ca/macdonald4.htm;Kitsilano
+"{""coordinates"": [-123.056587, 49.281123], ""type"": ""Point""}";TCM055;Nanaimo St and E Hastings St;https://trafficcams.vancouver.ca/nanaimoHastings.htm;Grandview-Woodland
+"{""coordinates"": [-123.185885, 49.263478], ""type"": ""Point""}";TCM058;Alma St and W 10th Av;https://trafficcams.vancouver.ca/alma10.htm;West Point Grey
+"{""coordinates"": [-123.153114, 49.25154], ""type"": ""Point""}";TCM059;Arbutus St and W King Edward Av;https://trafficcams.vancouver.ca/arbutusWKingEdward.htm;Arbutus-Ridge
+"{""coordinates"": [-123.036666, 49.20693], ""type"": ""Point""}";TCM066;Kinross St and Marine Way;https://trafficcams.vancouver.ca/kinrossMarine.htm;Killarney
+"{""coordinates"": [-123.042261, 49.208109], ""type"": ""Point""}";TCM067;Kerr St and SE Marine Drive;https://trafficcams.vancouver.ca/kerrMarine.htm;Killarney
+"{""coordinates"": [-123.196716, 49.234772], ""type"": ""Point""}";TCM069;SW Marine Drive and W 41st Av;https://trafficcams.vancouver.ca/marine41.htm;Dunbar-Southlands
+"{""coordinates"": [-123.171398, 49.227355], ""type"": ""Point""}";TCM070;SW Marine Drive and W 49th Av;https://trafficcams.vancouver.ca/marine49.htm;Kerrisdale
+"{""coordinates"": [-123.05403, 49.240012], ""type"": ""Point""}";TCM071;Slocan St and Kingsway;https://trafficcams.vancouver.ca/slocanKingsway.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.102278, 49.271224], ""type"": ""Point""}";TCM075;Quebec St and Switchmen St;https://trafficcams.vancouver.ca/quebecSwitchmen.htm;Mount Pleasant
+"{""coordinates"": [-123.023648, 49.269455], ""type"": ""Point""}";TCM077;Boundary Rd and E 1st Av;https://trafficcams.vancouver.ca/boundary1.htm;Hastings-Sunrise
+"{""coordinates"": [-123.077509, 49.262375], ""type"": ""Point""}";TCM078;Clark Drive and E Broadway;https://trafficcams.vancouver.ca/clarkBroadway.htm;Mount Pleasant
+"{""coordinates"": [-123.215212, 49.263925], ""type"": ""Point""}";TCM080;Blanca St and W 10th Av;https://trafficcams.vancouver.ca/blanca10.htm;
+"{""coordinates"": [-123.02371, 49.254887], ""type"": ""Point""}";TCM083;Boundary Road and Canada Way;https://trafficcams.vancouver.ca/boundaryCanadaWay.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.118271, 49.288853], ""type"": ""Point""}";TCM085;Thurlow St and Canada Place;https://trafficcams.vancouver.ca/ThurlowCanadaPlace.htm;Downtown
+"{""coordinates"": [-123.136732, 49.275566], ""type"": ""Point""}";TCM086;Burrard St Bridge;https://trafficcams.vancouver.ca/BurrardBridge.htm;Downtown
+"{""coordinates"": [-123.153051, 49.260993], ""type"": ""Point""}";TCM087;Arbutus St and W 12th Av;https://trafficcams.vancouver.ca/arbutus12.htm;Kitsilano
+"{""coordinates"": [-123.031797, 49.23839], ""type"": ""Point""}";TCM092;Joyce St and Vanness Av;https://trafficcams.vancouver.ca/joyceVanness.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.142148, 49.208558], ""type"": ""Point""}";TCM097;Cornish St and SW Marine drive;https://trafficcams.vancouver.ca/cornishSWMarine.htm;Marpole
+"{""coordinates"": [-123.122022, 49.278617], ""type"": ""Point""}";TCM101;Seymour St and Nelson St;https://trafficcams.vancouver.ca/seymourNelson.htm;Downtown
+"{""coordinates"": [-123.043093, 49.232969], ""type"": ""Point""}";TCM106;Rupert St and E 41st Av;https://trafficcams.vancouver.ca/rupert41.htm;Renfrew-Collingwood
+"{""coordinates"": [-123.082603, 49.276833], ""type"": ""Point""}";TCM108;Raymur Av and Venables St;https://trafficcams.vancouver.ca/raymurVenables.htm;Strathcona
+"{""coordinates"": [-123.145864, 49.260889], ""type"": ""Point""}";TCM110;Burrard St and W 12th Av;https://trafficcams.vancouver.ca/burrard12.htm;Kitsilano
+"{""coordinates"": [-123.115918, 49.266135], ""type"": ""Point""}";TCM119;Cambie St and W 2nd Av (west intersectio;https://trafficcams.vancouver.ca/cambie2West.htm;Fairview
+"{""coordinates"": [-123.114449, 49.266837], ""type"": ""Point""}";TCM120;Cambie St and W 2nd Av (east intersectio;https://trafficcams.vancouver.ca/cambie2East.htm;Mount Pleasant
+"{""coordinates"": [-123.155277, 49.234581], ""type"": ""Point""}";TCM122;Boulevards and W 41st Av;https://trafficcams.vancouver.ca/boulevards41.htm;Arbutus-Ridge
+"{""coordinates"": [-123.138664, 49.260772], ""type"": ""Point""}";TCM124;Granville St and W 12th Av;https://trafficcams.vancouver.ca/granville12.htm;Fairview
+"{""coordinates"": [-123.126694, 49.26058], ""type"": ""Point""}";TCM125;Oak St and W 12th Av;https://trafficcams.vancouver.ca/oak12.htm;Fairview
+"{""coordinates"": [-123.056591, 49.269508], ""type"": ""Point""}";TCM126;Nanaimo St and E 1st Av;https://trafficcams.vancouver.ca/nanaimo1.htm;Grandview-Woodland
+"{""coordinates"": [-123.056532, 49.284795], ""type"": ""Point""}";TCM127;Nanaimo St and Dundas St;https://trafficcams.vancouver.ca/nanaimoDundas.htm;Grandview-Woodland
+"{""coordinates"": [-123.110954, 49.284679], ""type"": ""Point""}";TCM132;Richards St and W Cordova St / Water St;https://trafficcams.vancouver.ca/richardsCordovaWater.htm;Downtown
+"{""coordinates"": [-123.11445, 49.282358], ""type"": ""Point""}";TCM137;Richards St and Dunsmuir St;https://trafficcams.vancouver.ca/richardsDunsmuir.htm;Downtown
+"{""coordinates"": [-123.033725, 49.267549], ""type"": ""Point""}";TCM142;Rupert St and E 3rd Av;https://trafficcams.vancouver.ca/rupert03rd.htm;Hastings-Sunrise
+"{""coordinates"": [-123.100776, 49.262703], ""type"": ""Point""}";TCM144;Main St and E Broadway;https://trafficcams.vancouver.ca/mainBroadway.htm;Mount Pleasant
+"{""coordinates"": [-123.2091, 49.26383], ""type"": ""Point""}";TCM145;Sasamat St and W 10th Av;https://trafficcams.vancouver.ca/sasamat10.htm;West Point Grey
+"{""coordinates"": [-123.056711, 49.257626], ""type"": ""Point""}";TCM153;Nanaimo St and Grandview Hwy South;https://trafficcams.vancouver.ca/nanaimoGrandview.htm;Kensington-Cedar Cottage
+"{""coordinates"": [-123.125831, 49.274826], ""type"": ""Point""}";TCM154;Richards St and Drake St;https://trafficcams.vancouver.ca/richardsDrake.htm;Downtown
+"{""coordinates"": [-123.077292, 49.225295], ""type"": ""Point""}";TCM169;Knight St and E 49th Av;https://trafficcams.vancouver.ca/knight49.htm;Sunset
